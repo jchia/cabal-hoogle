@@ -1,1 +1,6 @@
 packages: ./
+
+source-repository-package
+    type: git
+    location: https://github.com/jchia/hoogle.git
+    tag: 9466543db962b40c02389b2d3f8891b55066bd08
